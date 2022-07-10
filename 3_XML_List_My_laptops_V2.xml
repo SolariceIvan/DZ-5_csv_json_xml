@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<LAPTOPS>
+  <LAPTOP-1>
+    <My_Laptops>Dell Latitude 7370</My_Laptops>
+    <Display>13.3</Display>
+    <Processor>Intel Core M5-6Y57</Processor>
+    <Memory>8 Gb</Memory>
+    <Graphics>Intel HD Graphics 515</Graphics>
+    <Storage>SSD 256 Gb</Storage>
+  </LAPTOP-1>
+  <LAPTOP-2>
+    <My_Laptops>Toshiba Satellite A300-29H</My_Laptops>
+    <Display>15,6</Display>
+    <Processor>Pentium Dual Core T4200</Processor>
+    <Memory>2 Gb</Memory>
+    <Graphics>Radeon HD3470</Graphics>
+    <Storage>HDD 250 GB</Storage>
+  </LAPTOP-2>
+  <LAPTOP-3>
+    <My_Laptops>Lenovo IdeaPad V580A</My_Laptops>
+    <Display>15,6</Display>
+    <Processor>Intel Core i3-2370</Processor>
+    <Memory>6 Gb</Memory>
+    <Graphics>GeForce GT 640M</Graphics>
+    <Storage>HDD 500 Gb</Storage>
+  </LAPTOP-3>
+  <LAPTOP-4>
+    <My_Laptops>Lenovo Legion 5 17IMH05 B</My_Laptops>
+    <Display>17</Display>
+    <Processor>Intel Core i5-10300H</Processor>
+    <Memory>8 Gb</Memory>
+    <Graphics>NVIDIA GeForce GTX 1650 Ti</Graphics>
+    <Storage>SDD 512 GB</Storage>
+  </LAPTOP-4>
+  <LAPTOP-5>
+    <My_Laptops>Lenovo Yoga 9 15IMH5</My_Laptops>
+    <Display>14</Display>
+    <Processor>Intel Core i7-10750H</Processor>
+    <Memory>12 Gb</Memory>
+    <Graphics>NVIDIA GeForce GTX 1650Ti</Graphics>
+    <Storage>SSD 512 Gb</Storage>
+  </LAPTOP-5>
+</LAPTOPS>

@@ -1,0 +1,42 @@
+[
+  {
+    "My Laptops": "Dell Latitude 7370",
+    "Display": "13,3",
+    "Processor": "Intel Core M5-6Y57",
+    "Memory": "8 Gb",
+    "Graphics": "Intel HD Graphics 515",
+    "Storage": "SSD 256 Gb"
+  },
+  {
+    "My Laptops": "Toshiba Satellite A300-29H",
+    "Display": "15,6",
+    "Processor": "Pentium Dual Core T4200",
+    "Memory": "2 Gb",
+    "Graphics": "Radeon HD3470",
+    "Storage": "HDD 250 GB"
+  },
+  {
+    "My Laptops": "Lenovo IdeaPad V580A",
+    "Display": "15,6",
+    "Processor": "Intel Core i3-2370",
+    "Memory": "6 Gb",
+    "Graphics": "GeForce GT 640M",
+    "Storage": "HDD 500 Gb"
+  },
+  {
+    "My Laptops": "Lenovo Legion 5 17IMH05 B",
+    "Display": 17,
+    "Processor": "Intel Core i5-10300H",
+    "Memory": "8 Gb",
+    "Graphics": "NVIDIA GeForce GTX 1650 Ti",
+    "Storage": "SDD 512 GB"
+  },
+  {
+    "My Laptops": "Lenovo Yoga 9 15IMH5",
+    "Display": 14,
+    "Processor": "Intel Core i7-10750H",
+    "Memory": "12 Gb",
+    "Graphics": "NVIDIA GeForce GTX 1650Ti",
+    "Storage": "SSD 512 Gb"
+  }
+]
